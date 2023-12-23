@@ -1,0 +1,22 @@
+body{
+  background: url(https://cdn-icons-png.flaticon.com/128/2160/2160064.png);
+  text-align: center;
+background-repeat: no-repeat;
+}
+.heading{
+
+  text-transform: uppercase;
+  padding: 20px;
+  color:red ;
+}
+.btn{
+  text-transform: uppercase;
+  padding: 20px;
+  background-color: rgb(0, 255, 38);
+  border: 1px solid rgba(137, 135, 135, 0.348);
+  border-radius: 15px;
+color:rgb(0, 8, 255); ;
+}
+span{
+  color: rgb(0, 8, 255);
+}
